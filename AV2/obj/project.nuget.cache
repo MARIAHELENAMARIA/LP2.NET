@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "d3vsvkSyGonMS5cZ8+xJ5OZ+wHREyOz5frDCrGGVlB2ywCfQjehG9cprWDBhmQtU3134f3eCcI/5gi9IDGLO5g==",
+  "success": true,
+  "projectFilePath": "C:\\Maria Helena\\IF\\IFSP\\LP3 - Linguagem de Programação 3\\AV2\\AV2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Maria Helena\\.nuget\\packages\\microsoft.data.sqlite\\7.0.7\\microsoft.data.sqlite.7.0.7.nupkg.sha512",
+    "C:\\Users\\Maria Helena\\.nuget\\packages\\microsoft.data.sqlite.core\\7.0.7\\microsoft.data.sqlite.core.7.0.7.nupkg.sha512",
+    "C:\\Users\\Maria Helena\\.nuget\\packages\\sqlitepclraw.bundle_e_sqlite3\\2.1.4\\sqlitepclraw.bundle_e_sqlite3.2.1.4.nupkg.sha512",
+    "C:\\Users\\Maria Helena\\.nuget\\packages\\sqlitepclraw.core\\2.1.4\\sqlitepclraw.core.2.1.4.nupkg.sha512",
+    "C:\\Users\\Maria Helena\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3\\2.1.4\\sqlitepclraw.lib.e_sqlite3.2.1.4.nupkg.sha512",
+    "C:\\Users\\Maria Helena\\.nuget\\packages\\sqlitepclraw.provider.e_sqlite3\\2.1.4\\sqlitepclraw.provider.e_sqlite3.2.1.4.nupkg.sha512",
+    "C:\\Users\\Maria Helena\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}
